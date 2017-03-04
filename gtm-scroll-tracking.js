@@ -1,4 +1,3 @@
-<script>
   (function (window) {
     'use strict';
 	//Pushing the first event on page load
@@ -123,4 +122,3 @@
 
         }, 500);
 }(window));
-</script>
